@@ -14,10 +14,10 @@ namespace denemeclass
 			üyelerfullprop Ahmet = new üyelerfullprop();
 			//NESNELERE VERİLER GİRDİK.
 			Ahmet.ÜyeAdi = "Ahmet";
-			Ahmet.ÜyeSoyadi = "Taştan";
+			Ahmet.ÜyeSoyadi = "Taş";
 			üyelerfullprop Mahmut = new üyelerfullprop();
 			Mahmut.ÜyeAdi = "Mahmut";
-			Mahmut.ÜyeSoyadi = "Ünver";
+			Mahmut.ÜyeSoyadi = "Kaya";
 			üyelerfullprop Koray = new üyelerfullprop();
 			Koray.ÜyeAdi = "Koray";
 			Koray.ÜyeSoyadi = "Bapoğlu";
@@ -37,10 +37,10 @@ namespace denemeclass
 			üyelerprop Ahmet2 = new üyelerprop();
 			//NESNELERE VERİLER GİRDİK.
 			Ahmet2.ÜyeAdi = "Ahmet";
-			Ahmet2.ÜyeSoyadi = "Taştan";
+			Ahmet2.ÜyeSoyadi = "Taş";
 			üyelerprop Mahmut2 = new üyelerprop();
 			Mahmut2.ÜyeAdi = "Mahmut";
-			Mahmut2.ÜyeSoyadi = "Ünver";
+			Mahmut2.ÜyeSoyadi = "Kaya";
 			üyelerprop Koray2 = new üyelerprop();
 			Koray2.ÜyeAdi = "Koray";
 			Koray2.ÜyeSoyadi = "Bapoğlu";
@@ -56,13 +56,14 @@ namespace denemeclass
 			}
 			Console.ReadLine();
 			//----------EKRAN ÇIKTISI-----------------------------------------------
-			/* Ahmet Taştan
-               Mahmut Ünver
+			/* 
+			   Ahmet Taş
+               Mahmut Kaya
                Koray Bapoğlu
                ********************************************************************************
 
-               Ahmet Taştan
-               Mahmut Ünver
+               Ahmet Taş
+               Mahmut Kaya
                Koray Bapoğlu
 			-------------------------------------------------------------------------
            */
