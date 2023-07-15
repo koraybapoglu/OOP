@@ -1,0 +1,8 @@
+C:\Users\koray\source\repos\autoproperty\autoproperty\bin\Debug\autoproperty.exe.config
+C:\Users\koray\source\repos\autoproperty\autoproperty\bin\Debug\autoproperty.exe
+C:\Users\koray\source\repos\autoproperty\autoproperty\bin\Debug\autoproperty.pdb
+C:\Users\koray\source\repos\autoproperty\autoproperty\obj\Debug\autoproperty.csproj.AssemblyReference.cache
+C:\Users\koray\source\repos\autoproperty\autoproperty\obj\Debug\autoproperty.csproj.SuggestedBindingRedirects.cache
+C:\Users\koray\source\repos\autoproperty\autoproperty\obj\Debug\autoproperty.csproj.CoreCompileInputs.cache
+C:\Users\koray\source\repos\autoproperty\autoproperty\obj\Debug\autoproperty.exe
+C:\Users\koray\source\repos\autoproperty\autoproperty\obj\Debug\autoproperty.pdb
