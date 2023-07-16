@@ -10,5 +10,6 @@ namespace InıtOnlyProperty
 	{
 		public string ÜyeAdi => "Koray";
 		public string ÜyeSoyadi => "Bapoğlu";
+		public int Sayi { get; init; } = 3;
     }
 }

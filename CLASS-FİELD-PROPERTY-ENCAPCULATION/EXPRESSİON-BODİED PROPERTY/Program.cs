@@ -10,7 +10,11 @@ namespace InıtOnlyProperty
 	{
 		static void Main(string[] args)
 		{
-			UyeBilgileri uyebilgiler = new UyeBilgileri();
+			UyeBilgileri uyebilgiler = new UyeBilgileri
+			{
+				sayi = 5;
+			};
+
 			Console.WriteLine(uyebilgiler.ÜyeAdi);
 			Console.WriteLine(uyebilgiler.ÜyeSoyadi);
 			/* HATALI KULLANIM */
