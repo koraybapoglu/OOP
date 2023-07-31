@@ -23,12 +23,12 @@ public class WakeOnLan
 			{
 				case 1:
 					sorgula();
-					Insan insan = new Erkek(adi, soyadi, yasi); //Burada oluşturduğumuz insan nesnesi çok biçimlilik kullanarak hem bir Erkek hemde bir insandır.
+					Insan insan = new Erkek(adi, soyadi, yasi); //Burada oluşturduğumuz insan nesnesi çok biçimlilik(Polimorfizm) kullanarak hem bir Erkek hemde bir insandır.
 					yazdir(insan);
 					break;
 				case 2:
 					sorgula();
-					insan = new Kadin(adi, soyadi, yasi); //Burada oluşturduğumuz insan nesnesi çok biçimlilik kullanarak hem bir Kadın hemde bir insandır.
+					insan = new Kadin(adi, soyadi, yasi); //Burada oluşturduğumuz insan nesnesi çok biçimlilik(Polimorfizm) kullanarak hem bir Kadın hemde bir insandır.
 					yazdir(insan);
 					break;
 				default:
