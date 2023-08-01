@@ -1,4 +1,4 @@
-﻿namespace SealedKeyword
+﻿namespace BaseKeyword
 {
 	internal class Program
 	{
